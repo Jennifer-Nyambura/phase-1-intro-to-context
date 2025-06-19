@@ -1,0 +1,12 @@
+.hidden {
+  display: none;
+}
+
+.like-glyph {
+  cursor: pointer;
+  font-size: 2rem;
+}
+
+.activated-heart {
+  color: red;
+}
